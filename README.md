@@ -15,10 +15,10 @@ L'application est accessible [ici](https://projeq-ster.vercel.app) en version d'
 1. Clonez le dépôt :
 
 ```bash
-git clone https://github.com/dijxt/projeqSter.git
+git clone https://github.com/tbasdev57/Projet_Ster
 ```
 
-ou téléchargez le zip [ici](https://github.com/dijxt/projeqSter/archive/refs/heads/main.zip) et décompressez-le.
+ou téléchargez le zip [ici](https://github.com/tbasdev57/Projet_Ster/archive/refs/heads/main.zip) et décompressez-le.
 
 2. Installez les dépendances du projet :
 
